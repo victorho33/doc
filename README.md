@@ -1,1 +1,3 @@
-#doc 
+# Document repo for notes
+
+## Rust
